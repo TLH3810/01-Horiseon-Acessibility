@@ -2,8 +2,6 @@
 ## Description
 This project is for the Horiseon marketing agency to update their web page to meet accessibility standards to best reach all clients. This will be accomplished by insuring that all pictures are tagged with readable text to be used by technology such as video captions, screen readers, and braille keyboards.
 
-![Horiseon](file:///Users/Tera/Documents/Homework/01-Horiseon-Acessibility/index.html#online-reputation-management)
-
 ## Updates
 The changes made to adjust the code to adjust to accessibility standards are including all images in the HTML and then adding discriptors to them.
 
